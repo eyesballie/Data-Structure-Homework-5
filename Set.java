@@ -199,7 +199,7 @@ public class Set {
     s3.insert(new Integer(3));
     s3.insert(new Integer(8));
     System.out.println("Set s3 = " + s3);
-/*
+
     s.union(s2);
     System.out.println("After s.union(s2), s = " + s);
 
@@ -208,6 +208,5 @@ public class Set {
 
     System.out.println("s.cardinality() = " + s.cardinality());
     // You may want to add more (ungraded) test code here.
- */
   }
 }
